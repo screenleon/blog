@@ -1,4 +1,8 @@
 # Daily Log
+#### 2020-07-28
+* Add song queue to discord-practice
+    * each server has unique queue
+
 #### 2020-07-27
 * Using discord.js to connect discord
     * features:
