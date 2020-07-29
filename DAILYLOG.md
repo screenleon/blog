@@ -1,4 +1,7 @@
 # Daily Log
+#### 2020-07-29
+* Discord bot add methods to pause, skip, stop the music, set the project to build with docker
+
 #### 2020-07-28
 * Add song queue to discord-practice
     * each server has unique queue
