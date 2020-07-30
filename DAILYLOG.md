@@ -1,4 +1,7 @@
 # Daily Log
+#### 2020-07-30
+* Discord bot now can disconnect the voice channel with idle too long.
+
 #### 2020-07-29
 * Discord bot add methods to pause, skip, stop the music, set the project to build with docker
 
