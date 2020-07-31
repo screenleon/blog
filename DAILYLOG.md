@@ -1,4 +1,10 @@
 # Daily Log
+#### 2020-07-31
+* Discord bot
+    * After finished play the full song list, leave the voice channel
+    * Now can set the volume between 1 to 200, or get the current volume
+    * Use youtube with list query can fetch the songs to song list
+
 #### 2020-07-30
 * Discord bot now can disconnect the voice channel with idle too long.
 
