@@ -1,4 +1,10 @@
 # Daily Log
+#### 2020-08-02
+* Discord bot
+    * Rename default class to Sepecific class
+    * Send error message more clear
+    * Fix the bot leaving error
+
 #### 2020-08-01
 * Discord bot
     * Skip the restricted song, not fetch the unknown name of playlist song list.
