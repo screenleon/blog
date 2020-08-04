@@ -1,4 +1,8 @@
 # Daily Log
+#### 2020-08-01
+* Discord bot
+    * Skip the restricted song, not fetch the unknown name of playlist song list.
+
 #### 2020-07-31
 * Discord bot
     * After finished play the full song list, leave the voice channel
