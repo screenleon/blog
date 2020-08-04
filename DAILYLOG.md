@@ -1,4 +1,8 @@
 # Daily Log
+#### 2020-08-03
+* Discord bot
+    * Get the Reddit top or hot 5 articles.
+
 #### 2020-08-02
 * Discord bot
     * Rename default class to Sepecific class
