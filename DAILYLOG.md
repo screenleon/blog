@@ -1,4 +1,8 @@
 # Daily Log
+#### 2020-08-05
+* Familiar with PHP syntax and using
+* Build mqtt in nodejs with server and client
+
 #### 2020-08-04
 * Discord bot
     * Adjust the output of reddit
