@@ -1,4 +1,10 @@
 # Daily Log
+#### 2020-08-06
+* Nodejs
+    * Create mqtt server and websocket mqtt server, tls doesn't try
+* PHP
+    * create user to connect docker mysql
+
 #### 2020-08-05
 * Familiar with PHP syntax and using
 * Build mqtt in nodejs with server and client
