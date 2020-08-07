@@ -1,4 +1,10 @@
 # Daily Log
+#### 2020-08-07
+* Docker
+    * Install phpadmin with mysql
+* PHP
+    * Learn the router
+
 #### 2020-08-06
 * Nodejs
     * Create mqtt server and websocket mqtt server, tls doesn't try
