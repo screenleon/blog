@@ -1,4 +1,8 @@
 # Daily Log
+#### 2020-08-10
+* PHP
+    * Use blog tutorial to practice php and mysql
+
 #### 2020-08-07
 * Docker
     * Install phpadmin with mysql
