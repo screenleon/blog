@@ -1,4 +1,8 @@
 # Daily Log
+#### 2020-08-13
+* PHP
+    * practice php exam to familiar the php systax
+
 #### 2020-08-12
 * PHP
     * Practice php exam to familiar the php systax
