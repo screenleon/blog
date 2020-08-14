@@ -1,4 +1,12 @@
 # Daily Log
+#### 2020-08-14
+* PHP
+    * practice php exam to familiar the php systax
+* SQL
+    * Learn some sql systax
+* broker-benchmark
+    * know how to build mqtt-benchmark and exec
+
 #### 2020-08-13
 * PHP
     * practice php exam to familiar the php systax
