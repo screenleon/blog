@@ -1,4 +1,27 @@
 # Daily Log
+#### 2020-08-21
+* node
+    * mongo not have the connecting pool as mysql-await connecting pool
+    * try to make the pool, they may have problem with query
+
+#### 2020-08-20
+* node
+    * node mongo to test the speed of writing in the mongo with mqtt
+
+#### 2020-08-19
+* node
+    * node mongo to test the speed of writing in the mongo with mqtt
+
+#### 2020-08-18
+* node
+    * node mongo to test the speed of writing in the mongo with mqtt
+
+#### 2020-08-17
+* SQL
+    * Practice syntax
+* node
+    * try to build the schema use for mqtt
+
 #### 2020-08-14
 * PHP
     * practice php exam to familiar the php systax
