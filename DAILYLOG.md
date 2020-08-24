@@ -1,4 +1,8 @@
 # Daily Log
+#### 2020-08-24
+* node
+    * Using generic-pool to connect to database
+
 #### 2020-08-21
 * node
     * mongo not have the connecting pool as mysql-await connecting pool
