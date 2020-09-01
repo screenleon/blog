@@ -1,4 +1,8 @@
 # Daily Log
+#### 2020-09-01
+* php
+    * Add change password method
+
 #### 2020-08-24
 * node
     * Using generic-pool to connect to database
