@@ -1,4 +1,17 @@
 # Daily Log
+#### 2020-09-11
+* protobuffer
+    * build the protobuffer and translate to js to use on mqtt
+* node
+    * auto generate data and sent to mqtt
+
+* php
+    * Add cookie to record the current use language
+
+#### 2020-09-02
+* php
+    * Try to use yii2-translate-manager for i18n
+
 #### 2020-09-01
 * php
     * Add change password method
