@@ -1,4 +1,4 @@
-# Laravel generate fake data
+# Generate fake data
 > **Lien Chen** *2021-04-14*
 
 1. Build the schema models
