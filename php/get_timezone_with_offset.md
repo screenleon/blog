@@ -1,5 +1,7 @@
 # Get Timezone with Offset
-> **Lien Chen** *2020-11-25*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-11-25
 
 * Get Array set with offset key and area value, finally output json.
     * Sort by offset time

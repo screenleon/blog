@@ -1,5 +1,7 @@
 # Why using Transaction
-> **Lien Chen** *2020-08-17*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-08-17
 
 In sql, sometimes we have some commands that need multiple sql commands to run.
 To ensure all commands work successfully, if a commands or more failure, it can let all commands to unsuccess.

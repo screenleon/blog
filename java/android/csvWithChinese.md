@@ -1,11 +1,12 @@
 # CSV with Chinese
+================================
 
-> **Lien Chen** *2021-10-12*
+**Author**: Lien Chen  **Date**: 2021-10-12
 
 * When we write file with utf-8 charset, the chinese words will be garbled. It seems that excel default to use BIG5 read file.
 * Here is easy code to write file with charset BIG5
 
-```java=
+```java
 StringBuilder output = new StringBuilder();
 Files.write(tempFile, new String(output.toString().getBytes(StandardCharsets.UTF_8)).getBytes(Charset.forName("big5")));
 ```

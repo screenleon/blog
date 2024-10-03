@@ -1,11 +1,13 @@
 # Install ruby
-> **Lien Chen** *2020-09-28*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-09-28
 
 * You may have write permission with `You don't have write permissions for the /var/lib/gems/X.X.X directory`,
 You may install ruby by rbenv
 
 Instruction:
-```
+```bash
 cd $HOME
 sudo apt-get update 
 sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev

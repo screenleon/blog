@@ -1,5 +1,7 @@
 # About This
-> **Lien Chen** *2020-08-24*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-08-24
 
 * The JavaScript **this** keyword refers to the object it belongs to.
     * In a method, `this` refers to the **owner object**.

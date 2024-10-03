@@ -1,5 +1,7 @@
 # Using Docker without sudo
-> **Lien Chen** *2020-10-19*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-10-19
 
 * Let current useruse docker without sudo
 

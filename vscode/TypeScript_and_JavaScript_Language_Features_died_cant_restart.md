@@ -1,5 +1,7 @@
 # TypeScript and JavaScript Language Features died cant restart
-> **Lien Chen** *2020-07-29*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-07-29
 
 With start run vscode, it run out a notification which say "The TypeScript language service died 5 times right after it got started. The service will not be restarted.".
 

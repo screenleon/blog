@@ -1,5 +1,7 @@
 # Self vs This
-> **Lien Chen** *2020-08-26*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-08-26
 
 #### Summary
 * Use `$this` to refer to the current object

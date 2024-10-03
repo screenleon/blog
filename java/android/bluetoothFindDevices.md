@@ -1,6 +1,7 @@
 # Bluetooth Find Devices
+================================
 
-> **Lien Chen** *2021-11-10*
+**Author**: Lien Chen  **Date**: 2021-11-10
 
 * When I use BluetoothAdapter.startDiscovery, I can not find device by BroadcastReceiver's BluetoothDevice.ACTION_FOUND.
 * When I use BluetoothLeScanner.startScan, also I can not find device by ScanCallback onScanResult.
@@ -9,11 +10,11 @@
 * Add below code to fix this problem
 
 AndroidManifest.xml
-```xml=
+```xml
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 ```
 
-```java=
+```java
     if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
         // private static int PERMISSION_REQUEST_COARSE_LOCATION = 456
         // User Custom request code

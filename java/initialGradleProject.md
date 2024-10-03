@@ -1,5 +1,7 @@
 # Initial gradle project with spring boot
-> **Lien Chen** *2024-01-16*
+================================
+
+**Author**: Lien Chen  **Date**: 2024-01-16
 
 Execute the following command to initialize a project
 `gradle init`

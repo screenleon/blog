@@ -1,5 +1,7 @@
 # Get Directory Size
-> **Lien Chen** *2020-08-14*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-08-14
 
 * Use `du [OPTION} [FILE] [directory}` to get the file or directory size
 * Use `du -ch [directory]` can pick all file size and show out

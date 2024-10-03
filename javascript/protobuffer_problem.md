@@ -1,5 +1,7 @@
 # Protobuffer Problem
-> **Lien Chen** *2020-09-24*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-09-24
 
 * Using protobuffer and translate to javascript, deserialize with oneof type, only can get the number from oneof_case, cant get the type of the object.
 * My solution:

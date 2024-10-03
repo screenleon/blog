@@ -1,5 +1,7 @@
 # apt gives “Unstable CLI Interface” warning
-> **Lien Chen** *2020-07-29*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-07-29
 
 With build the docker-slim using `apt install PKG` run out with warning.
 Thought that **apt is a subset of apt-get and apt-cache commands providing necessary commands for package management**

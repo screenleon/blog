@@ -1,5 +1,7 @@
 # PID PPID PGID SID diff
-> **Lien Chen** *2021-06-02*
+================================
+
+**Author**: Lien Chen  **Date**: 2021-06-02
 
 * PID — Process Identifier: `Kernel assigns a unique number to every process`
 * PPID — Parent Process Identifier: `This pid of the parent process, maybe same as pid`

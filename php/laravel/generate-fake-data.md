@@ -1,5 +1,7 @@
 # Generate fake data
-> **Lien Chen** *2021-04-14*
+================================
+
+**Author**: Lien Chen  **Date**: 2021-04-14
 
 1. Build the schema models
 2. Build the model's factory

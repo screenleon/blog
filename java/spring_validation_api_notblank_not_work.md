@@ -1,5 +1,7 @@
 # Spring validation_api NotBlank not work
-> **Lien Chen** *2021-03-23*
+================================
+
+**Author**: Lien Chen  **Date**: 2021-03-23
 
 Seems annotation NotBlank is use to check variable is not null and have at least none space symbol.
 Add validation_api to pom.xml doesn't work successfully.

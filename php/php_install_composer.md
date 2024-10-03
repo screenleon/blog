@@ -1,8 +1,11 @@
 # PHP install composer
+================================
+
+**Author**: Lien Chen  **Date**: 2021-05-06
 
 * Use follow commands to install composer
 
-```bash=
+```bash
 $ sudo curl -sS https://getcomposer.org/installer | sudo php
 $ sudo mv composer.phar /usr/local/bin/composer
 $ sudo ln -s /usr/local/bin/composer /usr/bin/composer

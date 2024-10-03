@@ -1,5 +1,7 @@
 # ActiveRecord Problem
-> **Lien Chen** *2020-08-28*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-08-28
 
 * Class use define make error
 * Framework make the magic method, that will auto generate the data using at activeRecord.

@@ -1,5 +1,7 @@
 # Method vs Function
-> **Lien Chen** *2020-08-24*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-08-24
 
 * It's semantics and has to do with what you are trying to express.
 * In JavaScript every function is an object. ***An object is a collection of key:value pairs.*** If a value is a primitive (number, string, boolean), or another object, the value is considered a property. **If a value is a function, it is called a 'method'.**

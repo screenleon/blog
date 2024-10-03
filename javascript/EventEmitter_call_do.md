@@ -1,5 +1,7 @@
 # Load environment
-> **Lien Chen** *2020-08-21*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-08-21
 
 * **`EventEmitter.call(this);`**
     * Roughly equivalent to calling super() in languages with classical inheritance.

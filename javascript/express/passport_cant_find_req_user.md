@@ -1,8 +1,10 @@
 # Passport can't find req.user
-> **Lien Chen** *2020-07-16*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-07-16
 
 Need to enable session by 
-```javascript=
+```javascript
 app.use(session());
 app.use(passport.initialize());
 app.use(passport.session());

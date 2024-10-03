@@ -1,5 +1,7 @@
 # Github token with private repo
-> **Lien Chen** *2021-03-22*
+================================
+
+**Author**: Lien Chen  **Date**: 2021-03-22
 
 Usually using git command's clone, pull. You may need to input account name and password.
 But in docker, you may need to enter into container to input password.

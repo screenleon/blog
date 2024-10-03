@@ -1,5 +1,7 @@
 # Install Mysql with PhpMyAdmin
-> **Lien Chen** *2020-08-07*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-08-07
 
 * When you use networks, you also need to add database to your rdbms with `depends_on` to let them connect.
 

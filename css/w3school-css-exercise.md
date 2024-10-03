@@ -1,5 +1,7 @@
 # W3School CSS Exercise Supplement
-> **Lien Chen** *2020-07-24*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-07-24
 
 * [CSS Overflow](#css-overflow)
 * [CSS Combinator](#css-combinator)

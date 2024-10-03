@@ -1,6 +1,8 @@
 # Mariadb Installation of System tables failed
+================================
 
-> **Lien Chen** *2021-04-23*
+**Author**: Lien Chen  **Date**: 2021-04-23
+
 I use the smallest lightsail project. I want to use docker to build my website.
 When I try to create network with mariadb, the container ran out with installation of system tables failed. 
 I use --force-recreate, --no-deps options and rebuild container. It still ran out the error.

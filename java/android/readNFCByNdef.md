@@ -1,11 +1,12 @@
 # Read NFC By Ndef
+================================
 
-> **Lien Chen** *2021-09-30*
+**Author**: Lien Chen  **Date**: 2021-09-30
 
 * When I try to read NFC, I expected to read by NDEF. But `intent.getAction()` give me "NfcAdapter.ACTION_TECH_DISCOVERED".
 * Finally I set **try { intentFilter.addDataType("text/plain"); } catch (IntentFilter.MalformedMimeTypeException e) { e.printStackTrace(); }** finally get NDEF action.
 
-```java=
+```java
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);

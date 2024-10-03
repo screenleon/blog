@@ -1,5 +1,7 @@
 # Nginx
-> **Lien Chen** *2020-12-03*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-12-03
 
 * Nginx using php need `unix:/var/run/php/php[VERSION]-fpm.sock`
   * Start run service `php[version]-fpm`, it will generate *.sock file at /var/run/php.
@@ -7,14 +9,14 @@
     * Edit `/etc/php/[VERSION]/fpm/pool.d/www.conf`
 
 Follow instructor
-```
+```www.conf
 listen.owner=nobody
  
 listen.group=nobody
 ```
 
 Turn to 
-```
+```www.conf
 listen.owner=nginx
  
 listen.group=nginx

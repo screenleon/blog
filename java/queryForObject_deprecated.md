@@ -1,5 +1,7 @@
 # queryForObject deprecated
-> **Lien Chen** *2021-03-23*
+================================
+
+**Author**: Lien Chen  **Date**: 2021-03-23
 
 When try using queryForObject to select one line data
 Using `queryForObject(String sql, @Nullable Object[] args, RowMapper<T> rowMapper)` it show deprecated.

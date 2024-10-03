@@ -1,10 +1,12 @@
 # Webpack Resolve dotenv Error
-> **Lien Chen** *2021-06-08*
+================================
+
+**Author**: Lien Chen  **Date**: 2021-06-08
 
 * Run dotenv on laravel might run out with error `Can't resolve 'fs'` and `Can't resolve 'path'`
 * Add below code to webpack.mix.js
 
-```javascript=
+```javascript
 mix.webpackConfig({resolve: {fallback: {fs: false, path: false}}});
 ```
 

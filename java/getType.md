@@ -1,5 +1,7 @@
 # Get Type
-> **Lien Chen** *2020-12-29*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-12-29
 
 * To get the variable type by convert the variable type to object.
 * Using object to get the class name and get the simple name.

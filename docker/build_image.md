@@ -1,5 +1,7 @@
 # Build image
-> **Lien Chen** *2024-01-04*
+================================
+
+**Author**: Lien Chen  **Date**: 2024-01-04
 
 * Before we use *docker build --no-cache --tag mongo7 .* an example code to create image
 But current this usage became deprecated.

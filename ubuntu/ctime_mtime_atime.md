@@ -1,5 +1,7 @@
 # Ctime Mtime Atime
-> **Lien Chen** *2020-08-12*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-08-12
 
 Each file in linux has three timestamp
 * atime

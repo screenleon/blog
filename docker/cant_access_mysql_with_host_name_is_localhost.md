@@ -1,5 +1,7 @@
 # Can't access mysql with host name is localhost
-> **Lien Chen** *2020-08-06*
+================================
+
+**Author**: Lien Chen  **Date**: 2020-08-06
 
 * Ensure that MySQL is running either via Docker or on localhost.
 * You cant access mysql by user@localhost.
