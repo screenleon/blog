@@ -21,7 +21,10 @@ HOST=0.0.0.0 npm start
 
 使用 `netsh interface portproxy add v4tov4` 指令，將指定的 LAN IP 與埠轉發到 WSL 中運行的伺服器。
 
-netsh interface portproxy add v4tov4 listenaddress=192.168.X.X listenport=3000 connectaddress=192.168.X.X connectport=3000
+```powershell=
+$wslIp = wsl hostname -I
+netsh interface portproxy add v4tov4 listenport=443 listenaddress=0.0.0.0 connectport=443 connectaddress=$wslIp
+```
 
 - **listenaddress:** 指定 Windows 上用於監聽的 IP (LAN IP)。
 - **listenport:** 指定 Windows 上用於監聽的埠 (例如 3000)。
