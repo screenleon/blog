@@ -22,7 +22,7 @@ HOST=0.0.0.0 npm start
 使用 `netsh interface portproxy add v4tov4` 指令，將指定的 LAN IP 與埠轉發到 WSL 中運行的伺服器。
 
 ```powershell=
-$wslIp = wsl hostname -I
+$wslIp = (wsl hostname -I).Split(" ")[0]
 netsh interface portproxy add v4tov4 listenport=443 listenaddress=0.0.0.0 connectport=443 connectaddress=$wslIp
 ```
 
